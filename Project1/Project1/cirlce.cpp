@@ -5,8 +5,6 @@ int main()
 	double area = 0;
 	r = scanf();
 	area = cal(r);
-
-
 	print(area);
 	system("pause");
 	return 0;

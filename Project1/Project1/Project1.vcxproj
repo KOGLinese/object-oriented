@@ -112,6 +112,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cirlce.cpp" />
+    <ClCompile Include="sb.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sb.h" />
